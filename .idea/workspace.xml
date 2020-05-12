@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e1775a0-d74b-439c-ab36-e74586d65bed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1bm9YnpTk5penkA1WsqamrztUGs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e1775a0-d74b-439c-ab36-e74586d65bed" name="Default Changelist" comment="" />
+      <created>1589226451994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589226451994</updated>
+      <workItem from="1589226453363" duration="6443000" />
+      <workItem from="1589304186012" duration="5864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="341" key="NewPhpClassDialog" timestamp="1589228510347">
+      <screen x="0" y="23" width="1792" height="1056" />
+    </state>
+    <state x="634" y="341" key="NewPhpClassDialog/1094.-1057.1920.1057/-826.-1057.1920.1057/0.23.1792.1056@0.23.1792.1056" timestamp="1589228510347" />
+    <state x="412" y="248" width="968" height="646" key="find.popup" timestamp="1589310899609">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="412" y="248" width="968" height="646" key="find.popup/1094.-1057.1920.1057/-826.-1057.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1589310899609" />
+    <state x="477" y="47" width="838" height="1032" key="search.everywhere.popup" timestamp="1589232146544">
+      <screen x="0" y="23" width="1792" height="1056" />
+    </state>
+    <state x="477" y="47" width="838" height="1032" key="search.everywhere.popup/1094.-1057.1920.1057/-826.-1057.1920.1057/0.23.1792.1056@0.23.1792.1056" timestamp="1589232146544" />
+  </component>
+</project>
